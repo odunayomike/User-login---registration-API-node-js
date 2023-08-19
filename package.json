@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odunayomike/User-login---registration-API-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odunayomike/User-login---registration-API-node-js/issues"
+  },
+  "homepage": "https://github.com/odunayomike/User-login---registration-API-node-js#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-unless": "^2.1.3",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.4.3",
+    "mongoose-unique-validator": "^4.0.0"
+  }
+}
